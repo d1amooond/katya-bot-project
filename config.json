@@ -1,6 +1,6 @@
 {
   "apiKey": "5684764930:AAHlm1YgZ0Z-hNtEWDoVIg3SGcu4y5r1cEw",
-  "accessUsernames": ["@kate_s17", "d1amooond"],
+  "accessUsernames": ["kate_s17", "d1amooond"],
   "mongoDB": "mongodb+srv://dima0706:0706lbvf@footballresearcher.j2teg.mongodb.net/?retryWrites=true&w=majority",
   "dbName": "katya-bot",
   "adminChatId": 437433597
